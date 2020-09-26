@@ -1,0 +1,96 @@
+img{
+
+border: solid black;
+
+border-radius:25px;
+border-width: 5px;
+
+
+}
+
+
+h1{
+text-align: center;
+
+
+}
+
+body {
+
+    background-image: url("images/bg1.png");
+  
+}
+
+
+
+
+
+  .end{
+
+
+    display: flex;
+  }
+
+  .mainCont{
+justify-content: space-evenly;
+    display: flex;
+   
+    font-family: fantasy;
+ 
+
+  }
+
+
+.footer *{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+a{
+  text-decoration: none;
+  
+}  
+
+.headings {
+margin-right: 300px;
+margin-left: 300px;
+font-family: cursive;
+margin-top: 150px;
+}
+
+.mainHead {
+
+  background-color: black;
+  color: aliceblue;
+  position: fixed;
+  top: 0%;
+  width: 99%;
+  justify-content: space-evenly;
+  text-align: left;
+  display: flex;
+height: 10%;
+  
+}
+.mainHead .links{
+display: flex;
+
+}
+
+.mainHead .links *
+{
+margin-right: 30px;
+
+}
+
+
+a {
+color:aliceblue
+
+}
+
+a:hover {
+
+  opacity: 0.33
+  ;color: darksalmon;
+}
